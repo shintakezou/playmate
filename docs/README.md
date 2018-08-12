@@ -61,3 +61,8 @@ Neither the fundamentals of submarine operations and tactics nor characteristics
 5. To add charts and assets edit the corresponding XML file in the data folder. Just use an existing entry in that file as a template.
 6. Due to the project size and time constraints Playmate will not be developed any further.
 7. And last but not least, Dolphin 37 & 38.
+
+## Further reading
+
+* United States Navy -- [Operations Specialist, Vol. 01, Ch. 10 (Plotting)](https://www.globalsecurity.org/military/library/policy/navy/nrtc/14308_ch10.pdf)
+* Rodrigo da Silva Vieira -- [Towards a game-based periscope simulator for submarine officers tactical training](https://calhoun.nps.edu/handle/10945/49409)
