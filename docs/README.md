@@ -1,5 +1,7 @@
 # Playmate
 
+A Pratical Sumbarine Simulator written in Java ...
+
 <p align="center">
 	<img src="playmate.png">
 </p>
