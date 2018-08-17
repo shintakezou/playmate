@@ -1,6 +1,6 @@
 # Playmate
 
-A Pratical Sumbarine Simulator written in Java ...
+A Practical Submarine Simulator written in Java ...
 
 <p align="center">
 	<img src="playmate.png">
