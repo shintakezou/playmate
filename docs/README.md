@@ -66,5 +66,6 @@ Neither the fundamentals of submarine operations and tactics nor characteristics
 
 ## Further reading
 
+* Allied Maritime Command Northwood UK -- [NATO’s advanced Anti-Submarine Warfare Exercise Dynamic Manta 2017 concludes](https://mc.nato.int/media-centre/news/2017/natos-advanced-antisubmarine-warfare-exercise-dynamic-manta-concludes.aspx)
 * United States Navy -- [Operations Specialist, Vol. 01, Ch. 10 (Plotting)](https://www.globalsecurity.org/military/library/policy/navy/nrtc/14308_ch10.pdf)
 * Rodrigo da Silva Vieira -- [Towards a game-based periscope simulator for submarine officers tactical training](https://calhoun.nps.edu/handle/10945/49409)
